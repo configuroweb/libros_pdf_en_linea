@@ -24,7 +24,7 @@ La aplicación tiene un coste de 15 USD y para su implementación requieres la b
 
 # Enlace demo de la aplicación
 
-https://mauriciosevilla.com/laboratorio/admin/login.php
+https://mauriciosevilla.com/libros_pdf/admin/login.php
 Usuario: configuroweb
 Contraseña: 1234abcd..
 
